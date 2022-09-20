@@ -14,4 +14,4 @@ Federated Learning (FL) seeks to distribute model training across local clients 
 [Junjiao Tian]: https://potatotian.github.io/
 [James Seale Smith]: https://jamessealesmith.github.io/
 [Zsolt Kira]: https://www.cc.gatech.edu/~zk15/
-[arXiv]: 
+[arXiv]: https://arxiv.org/
